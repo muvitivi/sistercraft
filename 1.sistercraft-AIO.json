@@ -15,11 +15,11 @@
 
   "note" : "IRONSOURCE",
   "id_irc" : "10101010011000101100110111000110001001101010110111110011001110010111001",
-  "init_irc" : 10,
+  "init_irc" : 30,
   "pack_irc" : "",
   "pe1_irc" : 600,
   "pe2_irc" : 630,
-  "status_irc" : true,
+  "status_irc" : false,
 
   "note" : "IRCBAN",
   "is_active_ircban" : true,
