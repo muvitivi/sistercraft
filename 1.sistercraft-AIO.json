@@ -36,8 +36,8 @@
   "pack_una" : "",
   "pe1_una" : 360,
   "pe2_una" : 370,
-  "status_una" : true,
-  "testMode_una" : true,
+  "status_una" : false,
+  "testMode_una" : false,
   
   "note" : "UNITYBAN",
   "is_active_unaban" : true,
