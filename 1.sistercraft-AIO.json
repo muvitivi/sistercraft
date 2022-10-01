@@ -15,11 +15,11 @@
 
   "note" : "IRONSOURCE",
   "id_irc" : "10101010011000101100110111000110001001101010110111110011001110010111001",
-  "init_irc" : 30,
+  "init_irc" : 10,
   "pack_irc" : "",
   "pe1_irc" : 600,
   "pe2_irc" : 630,
-  "status_irc" : false,
+  "status_irc" : true,
 
   "note" : "IRCBAN",
   "is_active_ircban" : true,
@@ -36,8 +36,8 @@
   "pack_una" : "",
   "pe1_una" : 360,
   "pe2_una" : 370,
-  "status_una" : false,
-  "testMode_una" : false,
+  "status_una" : true,
+  "testMode_una" : true,
   
   "note" : "UNITYBAN",
   "is_active_unaban" : true,
